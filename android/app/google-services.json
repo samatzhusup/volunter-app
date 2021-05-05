@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "208082930718",
+    "project_id": "halykfud",
+    "storage_bucket": "halykfud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208082930718:android:77f2680821bf106378b20f",
+        "android_client_info": {
+          "package_name": "com.daydone.halyk_fund"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208082930718-01fnn5j9ddqqmfve8uohd3fe5ghmh9np.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daydone.halyk_fund",
+            "certificate_hash": "f8c36d8209593dbedf99f360a195445f15e4ff16"
+          }
+        },
+        {
+          "client_id": "208082930718-7872hju1j5vqltkrkdqd1sb2kfhvh4in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkVOgeR6riN7G1cP1VHu7bsGBYgpKzutk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208082930718-7872hju1j5vqltkrkdqd1sb2kfhvh4in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
